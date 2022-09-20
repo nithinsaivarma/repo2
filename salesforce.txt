@@ -1,0 +1,8 @@
+//get add size capacity remove firstElement lastElement
+
+
+DSA CONCEPTS:
+
+1.Full binary tree/complete binary tree
+2.sorting algorithms and their complexities
+3.
